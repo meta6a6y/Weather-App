@@ -34,8 +34,8 @@
 
 <ul>
   <li>Vue 3</li>
-  <li>Vuetify 3 (UI компоненты)</li>
-  <li>Pinia (управление состоянием)</li>
+  <li>Vuetify</li>
+  <li>Pinia</li>
   <li>OpenWeatherMap API</li>
 </ul>
 
