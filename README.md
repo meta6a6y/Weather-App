@@ -5,7 +5,7 @@
 
 <ol>
   <li>Склонируйте репозиторий:
-    <pre><code>git clone https://github.com/ваш-репозиторий.git</code></pre>
+    <pre><code>git clone https://github.com/meta6a6y/Weather-App</code></pre>
   </li>
   <li>Установите зависимости:
     <pre><code>npm install</code></pre>
