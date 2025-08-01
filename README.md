@@ -9,7 +9,8 @@
 cd Weather-App</code></pre>
   </li>
   <li>Установите зависимости:
-    <pre><code>npm install</code></pre>
+    <pre><code>npm install
+npm install axios</code></pre>
   </li>
   <li>Создайте файл <code>.env</code> в корне проекта и добавьте ваш API-ключ:
     <pre><code>VITE_WEATHER_API_KEY=ваш_ключ_от_api</code></pre>
